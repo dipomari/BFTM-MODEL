@@ -5,9 +5,11 @@ The BFTM (Budget-Focused Text Model) is an advanced NLP model specifically desig
 ## Model Access
 The BFTM model is available for download and integration via Google Drive:
 
+BFTM-MODEL -> AI-Application -> Models
+
 [![Model Drive Link](https://github.com/dipomari/BFTM-MODEL/assets/119870921/551dc707-b455-408c-b5ce-79e3188d5415)](https://drive.google.com/drive/folders/1eIw7C_GlQA4H_OkhGXd-QHsrHeHXmf9E?usp=share_link)
 
-Ensure that the model is placed in the same directory as the Notebooks and Datasets for optimal functionality.
+Ensure that the model is placed in the same directory as the Notebooks and Datasets for optimal functionality. Download the whole Models folder.
 
 ## Installation
 This project requires the setup of two separate environments to accommodate the different dependencies for notebook execution and model operations.
